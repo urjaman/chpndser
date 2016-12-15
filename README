@@ -1,0 +1,17 @@
+CH340g-based debug serial dongle for the pandora ext port
+----------------------------------------------------------
+
+Parts list:
+- usb mini b connector
+- ch340g
+- NX3008NBKW,115 SOT-323 n-ch mosfet
+- 12Mhz HC-49 SMD crystal
+- 2* 22pF 0603 cap
+- 2* 0.1u 0603 cap
+- 4* 4k7 0603 resistors
+- pandora ext port connector
+
+The PCB is shared at oshpark:
+https://oshpark.com/shared_projects/jlOmwnKj
+
+

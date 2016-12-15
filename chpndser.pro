@@ -1,4 +1,4 @@
-update=Mon 14 Mar 2016 11:27:40 PM EET
+update=Thu 15 Dec 2016 12:53:55 PM EET
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -58,5 +56,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/urjaman/phmnt/kcdtst/tblayout
-LibName31=ch340g
+LibName30=ch340g
+LibName31=tblayout
+[general]
+version=1
